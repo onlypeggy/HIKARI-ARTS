@@ -89,4 +89,3 @@ If either command fails, fix the issue or clearly report why it could not be fix
 - Preserve existing user changes.
 - Explain any assumptions when product requirements are unclear.
 
-Add AGENTS.md project guidance
